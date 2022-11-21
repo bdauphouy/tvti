@@ -1,5 +1,8 @@
-<script>
-	import 'assets/styles/global.css';
+<script lang="ts">
+	import Header from 'components/Header.svelte'
+
+	import '../app.css'
 </script>
 
+<Header />
 <slot />

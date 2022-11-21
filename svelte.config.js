@@ -1,18 +1,24 @@
-import adapter from '@sveltejs/adapter-auto';
-import preprocess from 'svelte-preprocess';
+import adapter from '@sveltejs/adapter-auto'
+import preprocess from 'svelte-preprocess'
+
+const aliases = {
+	components: './src/components'
+}
 
 /** @type {import('@sveltejs/kit').Config} */
 const config = {
 	// Consult https://github.com/sveltejs/svelte-preprocess
 	// for more information about preprocessors
-	preprocess: preprocess(),
-
+	preprocess: preprocess({
+		postcss: true
+	}),
 	kit: {
 		adapter: adapter(),
 		alias: {
-			assets: './src/assets'
+			assets: './src/assets',
+			...aliases
 		}
 	}
-};
+}
 
-export default config;
+export default config
