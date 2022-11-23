@@ -5,7 +5,7 @@ module.exports = {
 		extend: {
 			colors: {
 				primary: '#1C1724',
-				secondary: '#FED054',
+				secondary: '#FEFC24',
 				white: '#E8E7EC',
 				gray: '#ACABB0'
 			},
@@ -14,6 +14,9 @@ module.exports = {
 			},
 			maxWidth: {
 				'screen-3xl': '1920px'
+			},
+			boxShadow: {
+				'contact-background': `inset 0px 0px 0px 1000px #1C1724fa`
 			}
 		}
 	},

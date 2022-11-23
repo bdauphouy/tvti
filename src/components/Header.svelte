@@ -33,10 +33,16 @@
 	<nav
 		class="{hasScrolled
 			? 'py-2 md:py-4'
-			: 'py-4 md:py-8'} flex items-center justify-between px-6 transition-[padding] duration-300 md:px-20"
+			: 'py-4 md:py-6'} flex items-center justify-between px-6 transition-[padding] duration-300 md:px-20"
 	>
 		<a href="/" class="w-28">
-			<img src="/logo.png" alt="Logo de TVTI" />
+			<img
+				src="/logo.png"
+				alt="Logo de TVTI"
+				class="{hasScrolled
+					? ''
+					: 'brightness-50 grayscale hover:brightness-100 hover:grayscale-0'} transition-[filter] duration-300"
+			/>
 		</a>
 		<ul
 			class="{hasScrolled ? 'bg-white/70' : 'bg-primary/70'} {!menuIsOpen
@@ -45,29 +51,29 @@
 		>
 			<li>
 				<a
-					class="transition-[opacity] duration-300 hover:opacity-50"
-					href="/#nos-valeurs"
+					class="transition-[opacity] duration-300 xl:hover:opacity-50"
+					href="/#realisations"
+					on:click={closeMenu}>Nos réalisations</a
+				>
+			</li>
+			<li>
+				<a
+					class="transition-[opacity] duration-300 xl:hover:opacity-50"
+					href="/#valeurs"
 					on:click={closeMenu}>Nos valeurs</a
 				>
 			</li>
 			<li>
 				<a
-					class="transition-[opacity] duration-300 hover:opacity-50"
-					href="/#realisations"
-					on:click={closeMenu}>Réalisations</a
-				>
-			</li>
-			<li>
-				<a
-					class="transition-[opacity] duration-300 hover:opacity-50"
+					class="transition-[opacity] duration-300 xl:hover:opacity-50"
 					href="/#partenaires"
-					on:click={closeMenu}>Partenaires</a
+					on:click={closeMenu}>Nos partenaires</a
 				>
 			</li>
 		</ul>
 		<div class="flex items-center gap-10">
 			<Button as="a" href="/contact">
-				<span class="hidden xl:block">Contactez-moi</span>
+				<span class="hidden xl:block">Contactez-nous</span>
 				<img class="h-6 w-6 xl:hidden" src="/contact.svg" alt="Icône contact" /></Button
 			>
 			<button

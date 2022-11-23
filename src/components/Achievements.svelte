@@ -8,7 +8,9 @@
 	id="realisations"
 	class="mx-auto flex max-w-screen-3xl scroll-mt-10 flex-col gap-10 px-6 pt-20 md:scroll-mt-24 md:gap-16 md:px-20"
 >
-	<h2 class="text-3xl font-semibold text-white md:text-4xl">Réalisations</h2>
+	<h2 class="text-3xl font-semibold text-white md:text-4xl">
+		Réalisations (note: manque les images)
+	</h2>
 	<Category
 		title="Démolitions légères"
 		details={[
@@ -68,7 +70,35 @@
 		]}
 	/>
 	<Category
-		title="Revêtements de sols"
+		title="Menuiseries intérieures et extérieures"
+		details={[
+			'Planchers/mezzanines',
+			'Blocs portes intérieurs',
+			'Portes à galandage et coulissant',
+			'Portes et fenêtres extérieurs y compris pose Réno (PVC, bois alu, acier)',
+			'Portails de garage',
+			'Portails et portillons extérieurs',
+			'Volets rolants',
+			'Escaliers',
+			'Solivages et faux solivages'
+		]}
+		pictures={[
+			{
+				title: '',
+				src: defaultSrc
+			},
+			{
+				title: '',
+				src: defaultSrc
+			},
+			{
+				title: '',
+				src: defaultSrc
+			}
+		]}
+	/>
+	<Category
+		title="Revêtements de sol"
 		details={[
 			'Sols PVC LVT et lés',
 			'Ragréage',
@@ -93,56 +123,16 @@
 		]}
 	/>
 	<Category
-		title="Solivages"
-		details={['Faux solivages', 'Planchers', 'Mezzanines', 'Modifications trémies escalier']}
-		pictures={[
-			{
-				title: '',
-				src: defaultSrc
-			},
-			{
-				title: '',
-				src: defaultSrc
-			},
-			{
-				title: '',
-				src: defaultSrc
-			}
-		]}
-	/>
-	<Category
-		title="Sanitaires"
-		details={['WC', 'Baignoires', 'Douches', 'Eviers', 'Lavabos/vasques']}
-		pictures={[
-			{
-				title: '',
-				src: defaultSrc
-			},
-			{
-				title: '',
-				src: defaultSrc
-			},
-			{
-				title: '',
-				src: defaultSrc
-			}
-		]}
-	/>
-	<Category
 		title="Carrelages/faïences"
-		details={[
-			'Tous types de carralage sol et mural',
-			"Nattes d'étancheité",
-			"Douches à l'italienne"
-		]}
+		details={['Tous types de carrelage sol et muraux', "Nattes d'étanchéité"]}
 		pictures={[
 			{
-				title: 'Faïence',
-				src: 'realisations/carrelages-faiences/1.jpg'
+				title: '',
+				src: defaultSrc
 			},
 			{
-				title: 'Carrelage',
-				src: 'realisations/carrelages-faiences/2.jpg'
+				title: '',
+				src: defaultSrc
 			},
 			{
 				title: '',
@@ -151,7 +141,32 @@
 		]}
 	/>
 	<Category
-		title="Agencements"
+		title="Peintures intérieures et revêtements muraux"
+		details={[
+			'Préparations',
+			'Mise en peinture plafonds, murs, boiseries',
+			'Peinture radiateurs',
+			'Toile de verre et toile à peindre',
+			'Revêtements décoratifs',
+			'Revêtements projetés'
+		]}
+		pictures={[
+			{
+				title: '',
+				src: defaultSrc
+			},
+			{
+				title: '',
+				src: defaultSrc
+			},
+			{
+				title: '',
+				src: defaultSrc
+			}
+		]}
+	/>
+	<Category
+		title="Agencement"
 		details={[
 			'Fourniture et pose de cuisine ou pose seule',
 			'Dressing, placards',
@@ -167,6 +182,32 @@
 			{
 				title: 'Cuisine',
 				src: '/realisations/agencements/2.png'
+			},
+			{
+				title: '',
+				src: defaultSrc
+			}
+		]}
+	/>
+
+	<Category
+		title="Petite maçonnerie"
+		details={[
+			'Socle béton et scellement',
+			'Murets',
+			'Clôtures',
+			'Bordures',
+			'Réparation enrobée',
+			'Canivaux'
+		]}
+		pictures={[
+			{
+				title: '',
+				src: defaultSrc
+			},
+			{
+				title: '',
+				src: defaultSrc
 			},
 			{
 				title: '',
@@ -198,14 +239,14 @@
 		]}
 	/>
 	<Category
-		title="Petite maçonnerie"
+		title="Equipements sanitaires"
 		details={[
-			'Socle béton et scellement',
-			'Murets',
-			'Clôtures',
-			'Bordures',
-			'Réparation enrobée',
-			'Canivaux'
+			'Salle de bain clé en main',
+			'WC',
+			'Baignoires',
+			'Douches',
+			'Eviers',
+			'Lavabos/vasques'
 		]}
 		pictures={[
 			{
@@ -223,14 +264,14 @@
 		]}
 	/>
 	<Category
-		title="Métallerie serrurerie"
+		title="Métallerie serruerie"
 		details={[
 			'Serrures et béquillage portes',
 			'Garde-corps',
-			'Ferme-porte',
+			'Ferme-portes',
 			"Contrôle d'accès",
 			'Remplacement de paumelles',
-			'Barres antipanique'
+			'Barre anti-panique'
 		]}
 		pictures={[
 			{
@@ -248,14 +289,19 @@
 		]}
 	/>
 	<Category
-		title="Peintures intérieures et revêtements muraux"
+		title="Dépannage multiservices"
 		details={[
-			'Préparations',
-			'Mise en peinture plafonds, murs, boiseries',
-			'Peinture radiateurs',
-			'Toile de verre et toile à peindre',
-			'Revêtements décoratifs',
-			'Revêtements projetés'
+			'Débouchage sanitaire et réparation',
+			'Mise en jeu et réglage de port',
+			'Réparation petite maçonnerie',
+			"Pose panneaux d'affichage",
+			'Pose téléviseurs et supports',
+			'Remplacement sources lumineuses',
+			'Réparation de bardage',
+			'Déménagement locaux suite restructuration',
+			'Fourniture et pose de mobilier de bureau',
+			'Remise en état après sinistres',
+			'Fourniture et pose de mobilier urbain'
 		]}
 		pictures={[
 			{

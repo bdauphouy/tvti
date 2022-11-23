@@ -13,13 +13,11 @@
 		<Partner name="Foussier" logo="foussier.jpeg" />
 		<Partner name="BigMat" logo="bigmat.png" />
 		<Partner name="Point.P" logo="pointp.png" />
-		<Partner name="Denis Matériaux" logo="denis-materiaux.jpeg" />
+		<Partner name="Denis Matériaux à Pontchâteau" logo="denis-materiaux.jpeg" />
 		<Partner name="SARL Bodiguel" logo="bodiguel.jfif" />
-		<Partner name="Legallais" logo="legallais.jpeg" />
-		<Partner name="Auditia" logo="auditia.png" />
-		<Partner name="BPI France" logo="bpi.png" />
-		<Partner name="Otonaet" logo="otonaet.webp" />
-		<Partner name="FONDES" logo="fondes.png" />
+		<Partner name="Presqu'ile Menuiseries" logo="legallais.jpeg" />
+		<Partner name="Sonac/Tereva" logo="" />
+		<Partner name="Sonepar" logo="" />
 	</ul>
 	<span class="self-end text-lg text-gray">Et plein d'autres...</span>
 </section>

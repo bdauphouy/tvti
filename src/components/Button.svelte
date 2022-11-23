@@ -8,7 +8,7 @@
 	this={as}
 	on:click
 	href={as === 'a' ? href : undefined}
-	class="{classes} inline-block cursor-pointer rounded-md bg-secondary px-6 py-3 text-lg font-semibold text-primary transition-colors duration-300 hover:bg-secondary/80"
+	class="{classes} inline-block cursor-pointer rounded-md bg-secondary px-6 py-3 text-lg font-semibold text-primary transition-colors duration-300 xl:hover:bg-secondary/60"
 >
 	<slot />
 </svelte:element>
