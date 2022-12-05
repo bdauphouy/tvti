@@ -6,7 +6,7 @@
 	<div class="flex flex-col gap-10 rounded-t-xl bg-white/5 py-10 px-6 md:px-20">
 		<div class="flex flex-col gap-10 md:flex-row md:items-end md:gap-40">
 			<div class="flex flex-col gap-4">
-				<img src="logo.png" alt="Logo de TVTI" class="w-40" />
+				<img src="/logo.webp" alt="Logo de TVTI" class="w-40" />
 				<ul class="flex flex-col gap-1 text-lg text-gray">
 					<li class="font-bold text-white">TVTI</li>
 					<li>Sébastien DAUPHOUY</li>
@@ -28,18 +28,16 @@
 			<ul class="flex flex-col gap-1 text-lg text-gray">
 				<h3 class="font-bold text-white">Liens</h3>
 				<li>
-					<a href="#realisations" class="transition-[opacity] duration-300 xl:hover:opacity-50"
-						>Nos réalisations</a
+					<a href="/#" class="transition-[opacity] duration-300 xl:hover:opacity-50">Accueil</a>
+				</li>
+				<li>
+					<a href="#savoir-faire" class="transition-[opacity] duration-300 xl:hover:opacity-50"
+						>Nos savoir-faire</a
 					>
 				</li>
 				<li>
 					<a href="#valeurs" class="transition-[opacity] duration-300 xl:hover:opacity-50"
 						>Nos valeurs</a
-					>
-				</li>
-				<li>
-					<a href="#partenaires" class="transition-[opacity] duration-300 xl:hover:opacity-50"
-						>Nos partenaires</a
 					>
 				</li>
 				<li>

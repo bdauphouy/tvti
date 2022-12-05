@@ -37,7 +37,8 @@
 	>
 		<a href="/" class="w-28">
 			<img
-				src="/logo.png"
+				src="/logo.webp"
+				title="Retourner à l'accueil"
 				alt="Logo de TVTI"
 				class="{hasScrolled
 					? ''
@@ -52,8 +53,15 @@
 			<li>
 				<a
 					class="transition-[opacity] duration-300 xl:hover:opacity-50"
-					href="/#realisations"
-					on:click={closeMenu}>Nos réalisations</a
+					href="/"
+					on:click={closeMenu}>Accueil</a
+				>
+			</li>
+			<li>
+				<a
+					class="transition-[opacity] duration-300 xl:hover:opacity-50"
+					href="/#savoir-faire"
+					on:click={closeMenu}>Nos savoir-faire</a
 				>
 			</li>
 			<li>
@@ -61,13 +69,6 @@
 					class="transition-[opacity] duration-300 xl:hover:opacity-50"
 					href="/#valeurs"
 					on:click={closeMenu}>Nos valeurs</a
-				>
-			</li>
-			<li>
-				<a
-					class="transition-[opacity] duration-300 xl:hover:opacity-50"
-					href="/#partenaires"
-					on:click={closeMenu}>Nos partenaires</a
 				>
 			</li>
 		</ul>

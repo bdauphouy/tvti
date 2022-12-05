@@ -7,7 +7,7 @@
 		<ul class="mx-auto flex w-full max-w-4xl flex-wrap justify-center gap-10 md:justify-between">
 			<Stat number={8} label="Ans d'existence" />
 			<Stat number={25} label="Ans d'expérience" />
-			<Stat number="+150" label="Chantiers réalisés" />
+			<Stat number="+200" label="Chantiers réalisés" />
 		</ul>
 	</div>
 </section>

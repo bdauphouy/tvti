@@ -13,22 +13,22 @@
 		<Value
 			icon="service.svg"
 			title="Polyvalence"
-			description="Pas besoin d'avoir recours à de nombreux artisans et d'alourdir la facture de votre projet, votre artisan se charge d'effectuer des travaux multiples."
+			description="Une seule et même entreprise pour tous les travaux qui permet de supprimer la coordination et d'alléger la facture de votre projet. Votre artisan vous propose une vision globale de votre rénovation."
 		/>
 		<Value
 			icon="hand.svg"
 			title="Conseils et accompagnement"
-			description="Conseils et solutions sur les côtés esthétiques et techniques, tout au long du projet."
+			description="Conseils et solutions techniques et esthétiques adaptés au projet tout au long de la réalisation. Vision globale du projet. Recherche permanente du meilleur rapport qualité / prix. Finition des travaux de qualité et respect des normes et DTU. Devis très détaillés"
 		/>
 		<Value
 			icon="map-pin.svg"
 			title="Disponibilité & ponctualité"
-			description="Déplacement dans un rayon de 100 km autour de Guémené-Penfao mais également à l'échelle nationale si besoin."
+			description="Déplacement dans un rayon de 100 km autour de Guémené-Penfao mais également à l'échelle nationale si besoin. Respect strict des heures de rendez vous et des plannings de réalisation."
 		/>
 		<Value
 			icon="money.svg"
-			title="Respect du budget"
-			description="Etude approfondie du projet pour optimiser les coûts."
+			title="Respect du budget et de l'environnement"
+			description="Etude approfondie du projet afin d'éviter les surcouts et la facturation intempestive de travaux supplémentaires. Utilisation de matériaux respectant l'environnement dans la mesure du possible. Evacuation tri et recyclage de nos déchets."
 		/>
 	</ul>
 </section>

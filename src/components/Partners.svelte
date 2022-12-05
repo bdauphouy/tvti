@@ -8,16 +8,18 @@
 >
 	<h2 class="text-3xl font-semibold text-white md:text-4xl">Partenaires</h2>
 	<ul class="grid grid-cols-2 gap-16 md:grid-cols-4 xl:grid-cols-6">
-		<Partner name="DOD" logo="dod.png" />
-		<Partner name="Sider" logo="sider.svg" />
-		<Partner name="Foussier" logo="foussier.jpeg" />
-		<Partner name="BigMat" logo="bigmat.png" />
-		<Partner name="Point.P" logo="pointp.png" />
-		<Partner name="Denis Matériaux à Pontchâteau" logo="denis-materiaux.jpeg" />
-		<Partner name="SARL Bodiguel" logo="bodiguel.jfif" />
-		<Partner name="Presqu'ile Menuiseries" logo="legallais.jpeg" />
-		<Partner name="Sonac/Tereva" logo="" />
-		<Partner name="Sonepar" logo="" />
+		<Partner name="SARL BODIGUEL" />
+		<Partner name="DOD" />
+		<Partner name="SIDER" />
+		<Partner name="BIGMAT" />
+		<Partner name="PRESQU'ILE MENUISERIES" />
+		<Partner name="POINT P" />
+		<Partner name="DENIS MATERIAUX - FOUSSIER" />
+		<Partner name="SONAC / TEREVA" />
+		<Partner name="SONEPAR" />
+		<Partner name="PIERRE ET VACANCES" />
+		<Partner name="ADAGIO" />
+		<Partner name="FOUSSIER" />
 	</ul>
 	<span class="self-end text-lg text-gray">Et plein d'autres...</span>
 </section>

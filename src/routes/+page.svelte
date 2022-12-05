@@ -1,5 +1,5 @@
 <script lang="ts">
-	import Achievements from 'components/Achievements.svelte'
+	import KnowHow from 'components/KnowHow.svelte'
 	import Domains from 'components/Domains.svelte'
 	import Footer from 'components/Footer.svelte'
 	import Homepage from 'components/Homepage.svelte'
@@ -12,7 +12,7 @@
 <Homepage />
 <Stats />
 <Domains />
-<Achievements />
+<KnowHow />
 <Values />
 <Partners />
 <Footer />

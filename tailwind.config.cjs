@@ -7,7 +7,8 @@ module.exports = {
 				primary: '#1C1724',
 				secondary: '#FEFC24',
 				white: '#E8E7EC',
-				gray: '#ACABB0'
+				gray: '#ACABB0',
+				'gray-dark': '#26212e'
 			},
 			fontFamily: {
 				sans: ['Lexend', 'sans-serif']
