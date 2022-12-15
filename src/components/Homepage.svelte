@@ -22,7 +22,7 @@
 	</div>
 	<div class="hidden max-w-3xl flex-1 xl:block">
 		<img
-			src="/savoir-faire/menuiserie-int-ext/1.jpg"
+			src="/savoir-faire/menuiserie-int-ext/1.webp"
 			alt="Siège de TVTI"
 			class="w-full rounded-xl"
 		/>

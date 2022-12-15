@@ -70,7 +70,7 @@
 </script>
 
 <main
-	class="flex min-h-screen items-center justify-center bg-primary bg-opacity-10 bg-[url(/savoir-faire/agencement/1.jpg)] bg-cover bg-no-repeat px-6 shadow-contact-background md:px-20"
+	class="flex min-h-screen items-center justify-center bg-primary bg-opacity-10 bg-[url(/savoir-faire/agencement/1.webp)] bg-cover bg-no-repeat px-6 shadow-contact-background md:px-20"
 >
 	<div class="flex w-full max-w-2xl flex-col gap-10">
 		<h2 class="text-3xl font-semibold text-white md:text-4xl">Contactez-moi</h2>

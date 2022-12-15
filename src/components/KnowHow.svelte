@@ -21,15 +21,15 @@
 		pictures={[
 			{
 				title: 'Démolition de crédence carrelage',
-				src: '/savoir-faire/demolitions-legeres/3.jpg'
+				src: '/savoir-faire/demolitions-legeres/3.webp'
 			},
 			{
 				title: 'Démolition de cloison',
-				src: '/savoir-faire/demolitions-legeres/2.jpg'
+				src: '/savoir-faire/demolitions-legeres/2.webp'
 			},
 			{
 				title: 'Démolition de cuisine',
-				src: '/savoir-faire/demolitions-legeres/4.jpg'
+				src: '/savoir-faire/demolitions-legeres/4.webp'
 			}
 		]}
 	/>
@@ -46,23 +46,23 @@
 		pictures={[
 			{
 				title: 'Isolation plafond entre poutres',
-				src: '/savoir-faire/isolation/3.jpg'
+				src: '/savoir-faire/isolation/3.webp'
 			},
 			{
 				title: 'Isolation murale',
-				src: '/savoir-faire/isolation/4.jpg'
+				src: '/savoir-faire/isolation/4.webp'
 			},
 			{
 				title: 'Isolation rampant',
-				src: '/savoir-faire/isolation/7.jpg'
+				src: '/savoir-faire/isolation/7.webp'
 			},
 			{
 				title: 'Isolation rampant',
-				src: '/savoir-faire/isolation/6.jpg'
+				src: '/savoir-faire/isolation/6.webp'
 			},
 			{
 				title: 'Isolation plafond',
-				src: '/savoir-faire/isolation/5.jpg'
+				src: '/savoir-faire/isolation/5.webp'
 			}
 		]}
 	/>
@@ -78,15 +78,15 @@
 		pictures={[
 			{
 				title: 'Doublage et plafond',
-				src: '/savoir-faire/cloisons-seches/3.jpg'
+				src: '/savoir-faire/cloisons-seches/3.webp'
 			},
 			{
 				title: 'Cloison de distribution',
-				src: '/savoir-faire/cloisons-seches/2.jpg'
+				src: '/savoir-faire/cloisons-seches/2.webp'
 			},
 			{
 				title: 'Aménagement de combles',
-				src: '/savoir-faire/cloisons-seches/1.jpg'
+				src: '/savoir-faire/cloisons-seches/1.webp'
 			}
 		]}
 	/>
@@ -107,23 +107,23 @@
 		pictures={[
 			{
 				title: "Porte d'entrée",
-				src: '/savoir-faire/menuiserie-int-ext/7.jpg'
+				src: '/savoir-faire/menuiserie-int-ext/7.webp'
 			},
 			{
 				title: 'Menuiserie extérieure et volets roulants',
-				src: '/savoir-faire/menuiserie-int-ext/1.jpg'
+				src: '/savoir-faire/menuiserie-int-ext/1.webp'
 			},
 			{
 				title: 'Menuiserie extérieure',
-				src: '/savoir-faire/menuiserie-int-ext/2.jpg'
+				src: '/savoir-faire/menuiserie-int-ext/2.webp'
 			},
 			{
 				title: 'Mural bois brut',
-				src: '/savoir-faire/menuiserie-int-ext/3.jpg'
+				src: '/savoir-faire/menuiserie-int-ext/3.webp'
 			},
 			{
 				title: 'Mural bois brut',
-				src: '/savoir-faire/menuiserie-int-ext/4.jpg'
+				src: '/savoir-faire/menuiserie-int-ext/4.webp'
 			}
 		]}
 	/>
@@ -141,15 +141,15 @@
 		pictures={[
 			{
 				title: 'Dalles bureau',
-				src: '/savoir-faire/revetements-de-sols/1.jpg'
+				src: '/savoir-faire/revetements-de-sols/1.webp'
 			},
 			{
 				title: 'LVT',
-				src: '/savoir-faire/revetements-de-sols/2.jpg'
+				src: '/savoir-faire/revetements-de-sols/2.webp'
 			},
 			{
 				title: 'Ragréage',
-				src: '/savoir-faire/revetements-de-sols/5.jpg'
+				src: '/savoir-faire/revetements-de-sols/5.webp'
 			}
 		]}
 	/>
@@ -165,23 +165,23 @@
 		pictures={[
 			{
 				title: 'Carrelage imitation parquet',
-				src: '/savoir-faire/carrelage-faience/1.jpg'
+				src: '/savoir-faire/carrelage-faience/1.webp'
 			},
 			{
 				title: 'Salle de bain complète',
-				src: '/savoir-faire/carrelage-faience/9.jpg'
+				src: '/savoir-faire/carrelage-faience/9.webp'
 			},
 			{
 				title: 'Salle de bain complète',
-				src: '/savoir-faire/carrelage-faience/8.jpg'
+				src: '/savoir-faire/carrelage-faience/8.webp'
 			},
 			{
 				title: "Receveur à l'italienne",
-				src: '/savoir-faire/carrelage-faience/10.jpg'
+				src: '/savoir-faire/carrelage-faience/10.webp'
 			},
 			{
 				title: 'Terrasse',
-				src: '/savoir-faire/carrelage-faience/12.jpg'
+				src: '/savoir-faire/carrelage-faience/12.webp'
 			}
 		]}
 	/>
@@ -199,15 +199,15 @@
 		pictures={[
 			{
 				title: 'Salle de bain',
-				src: '/savoir-faire/salles-de-bains/10.jpg'
+				src: '/savoir-faire/salles-de-bains/10.webp'
 			},
 			{
 				title: 'Salle de bain',
-				src: '/savoir-faire/salles-de-bains/17.jpg'
+				src: '/savoir-faire/salles-de-bains/17.webp'
 			},
 			{
 				title: 'Salle de bain',
-				src: '/savoir-faire/salles-de-bains/11.jpg'
+				src: '/savoir-faire/salles-de-bains/11.webp'
 			}
 		]}
 	/>
@@ -226,23 +226,23 @@
 		pictures={[
 			{
 				title: 'Papier peint',
-				src: '/savoir-faire/peinture-revetements-muraux/10.jpg'
+				src: '/savoir-faire/peinture-revetements-muraux/10.webp'
 			},
 			{
 				title: 'Rénovation complète',
-				src: '/savoir-faire/peinture-revetements-muraux/8.jpg'
+				src: '/savoir-faire/peinture-revetements-muraux/8.webp'
 			},
 			{
 				title: 'Rénovation complète',
-				src: '/savoir-faire/peinture-revetements-muraux/9.jpg'
+				src: '/savoir-faire/peinture-revetements-muraux/9.webp'
 			},
 			{
 				title: 'Lasure',
-				src: '/savoir-faire/peinture-revetements-muraux/1.jpg'
+				src: '/savoir-faire/peinture-revetements-muraux/1.webp'
 			},
 			{
 				title: 'Peinture murale',
-				src: '/savoir-faire/peinture-revetements-muraux/4.jpg'
+				src: '/savoir-faire/peinture-revetements-muraux/4.webp'
 			}
 		]}
 	/>
@@ -259,15 +259,15 @@
 		pictures={[
 			{
 				title: "Banque d'accueil",
-				src: '/savoir-faire/agencement/1.jpg'
+				src: '/savoir-faire/agencement/1.webp'
 			},
 			{
 				title: 'Cuisine',
-				src: '/savoir-faire/agencement/8.jpg'
+				src: '/savoir-faire/agencement/8.webp'
 			},
 			{
 				title: 'Cuisine',
-				src: '/savoir-faire/agencement/5.jpg'
+				src: '/savoir-faire/agencement/5.webp'
 			}
 		]}
 	/>
@@ -289,23 +289,23 @@
 		pictures={[
 			{
 				title: 'Chambre',
-				src: '/savoir-faire/renovation-hebergements-hoteliers/1.jpg'
+				src: '/savoir-faire/renovation-hebergements-hoteliers/1.webp'
 			},
 			{
 				title: 'Salon',
-				src: '/savoir-faire/renovation-hebergements-hoteliers/6.jpg'
+				src: '/savoir-faire/renovation-hebergements-hoteliers/6.webp'
 			},
 			{
 				title: 'Kitchenette',
-				src: '/savoir-faire/renovation-hebergements-hoteliers/3.jpg'
+				src: '/savoir-faire/renovation-hebergements-hoteliers/3.webp'
 			},
 			{
 				title: 'Salon',
-				src: '/savoir-faire/renovation-hebergements-hoteliers/4.jpg'
+				src: '/savoir-faire/renovation-hebergements-hoteliers/4.webp'
 			},
 			{
 				title: 'Chambre',
-				src: '/savoir-faire/renovation-hebergements-hoteliers/5.jpg'
+				src: '/savoir-faire/renovation-hebergements-hoteliers/5.webp'
 			}
 		]}
 	/>
@@ -323,15 +323,15 @@
 		pictures={[
 			{
 				title: 'Cornière renfort quai',
-				src: '/savoir-faire/metallerie-serrurerie/1.jpg'
+				src: '/savoir-faire/metallerie-serrurerie/1.webp'
 			},
 			{
 				title: 'Quai de déchargement',
-				src: '/savoir-faire/metallerie-serrurerie/2.jpg'
+				src: '/savoir-faire/metallerie-serrurerie/2.webp'
 			},
 			{
 				title: "Rampe d'accès",
-				src: '/savoir-faire/metallerie-serrurerie/4.jpg'
+				src: '/savoir-faire/metallerie-serrurerie/4.webp'
 			}
 		]}
 	/>
@@ -360,23 +360,23 @@
 		pictures={[
 			{
 				title: 'Chenage et bac acier',
-				src: '/savoir-faire/depannages-multiservices/2.jpg'
+				src: '/savoir-faire/depannages-multiservices/2.webp'
 			},
 			{
 				title: 'Caniveau',
-				src: '/savoir-faire/depannages-multiservices/1.jpg'
+				src: '/savoir-faire/depannages-multiservices/1.webp'
 			},
 			{
 				title: 'Montage table convoyage',
-				src: '/savoir-faire/depannages-multiservices/3.jpg'
+				src: '/savoir-faire/depannages-multiservices/3.webp'
 			},
 			{
 				title: 'Mouzillon après',
-				src: '/savoir-faire/depannages-multiservices/4.jpg'
+				src: '/savoir-faire/depannages-multiservices/4.webp'
 			},
 			{
 				title: 'Poteau de quai',
-				src: '/savoir-faire/depannages-multiservices/6.jpg'
+				src: '/savoir-faire/depannages-multiservices/6.webp'
 			}
 		]}
 	/>
