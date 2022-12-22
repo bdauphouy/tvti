@@ -27,7 +27,7 @@
 	let success = false
 
 	const submitForm = async () => {
-		const response = await fetch('http://localhost:3000/contact', {
+		const response = await fetch(`${window.location.origin}/api/contact`, {
 			method: 'POST',
 			headers: {
 				'Content-Type': 'application/json'
@@ -60,10 +60,8 @@
 		if (Object.values(errors).every((value) => !value)) {
 			const data = await submitForm()
 
-			if (data.info) {
+			if (data.success) {
 				success = true
-			} else {
-				alert('Une erreur est survenue.')
 			}
 		}
 	}
