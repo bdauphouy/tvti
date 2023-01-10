@@ -1,0 +1,17 @@
+version: '3'
+
+services:
+  tvti:
+    container_name: tvti
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - 3001:4173
+    restart: unless-stopped
+#     networks:
+#       - bridge
+
+# networks:
+#   bridge:
+#     drive: server-bridge
