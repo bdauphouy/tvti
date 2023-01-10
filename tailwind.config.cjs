@@ -17,7 +17,7 @@ module.exports = {
 				'screen-3xl': '1920px'
 			},
 			boxShadow: {
-				'contact-background': `inset 0px 0px 0px 1000px #1C1724fa`
+				'contact-background': `inset 0px 0px 0px 1000px #1C1724f1`
 			}
 		}
 	},

@@ -25,10 +25,14 @@
 	<header
 		class="{hasScrolled
 			? 'bg-primary/20 text-primary'
-			: 'bg-white/20 text-white'} hidden justify-center gap-16 py-1 transition-colors duration-300 md:flex"
+			: 'bg-white/20 text-white'} hidden justify-center gap-16 py-2 text-xl transition-colors duration-300 md:flex"
 	>
-		<a href="tel:0614881054">Téléphone : 0614881054</a>
-		<a href="mailto:sebastien.tvti@sfr.fr">Email : sebastien.tvti@sfr.fr</a>
+		<a href="tel:0614881054" class="transition-opacity duration-300 hover:opacity-60"
+			>Téléphone : 0614881054</a
+		>
+		<a href="mailto:sebastien.tvti@sfr.fr" class="transition-opacity duration-300 hover:opacity-60"
+			>Email : sebastien.tvti@sfr.fr</a
+		>
 	</header>
 	<nav
 		class="{hasScrolled

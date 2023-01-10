@@ -6,12 +6,11 @@ services:
     build:
       context: .
       dockerfile: Dockerfile
-    ports:
-      - 3001:4173
     restart: unless-stopped
-#     networks:
-#       - bridge
+    networks:
+      - bridge
 
-# networks:
-#   bridge:
-#     drive: server-bridge
+networks:
+  bridge:
+    name: server-bridge
+    external: true
