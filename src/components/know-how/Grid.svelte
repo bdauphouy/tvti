@@ -64,7 +64,7 @@
 			<img
 				class="h-full w-full rounded-md object-cover md:rounded-xl"
 				src={pictures[3].src}
-				on:click={() => window.open(pictures[2].src, '_blank')}
+				on:click={() => window.open(pictures[3].src, '_blank')}
 				alt="Siège de TVTI"
 			/>
 		</li>
@@ -72,7 +72,7 @@
 			<img
 				class="h-full w-full rounded-md object-cover md:rounded-xl"
 				src={pictures[4].src}
-				on:click={() => window.open(pictures[2].src, '_blank')}
+				on:click={() => window.open(pictures[4].src, '_blank')}
 				alt="Siège de TVTI"
 			/>
 		</li>

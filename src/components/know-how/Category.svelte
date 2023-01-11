@@ -8,7 +8,7 @@
 	export let pictures: Picture[] = []
 </script>
 
-<div {id} class="flex scroll-mt-40 flex-col gap-12 lg:flex-row lg:gap-20">
+<div {id} class="flex scroll-mt-44 flex-col gap-12 lg:flex-row lg:gap-20">
 	<div class="flex w-full flex-col gap-4 lg:w-1/3">
 		<h3 class="text-2xl font-medium text-white">{title}</h3>
 		<ul class="flex flex-col gap-4 text-lg text-gray">

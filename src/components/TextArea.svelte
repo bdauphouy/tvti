@@ -10,7 +10,7 @@
 	<textarea
 		{id}
 		bind:value
-		class="h-40 w-full rounded-md bg-gray-dark p-4 text-lg text-white outline-none"
+		class="h-40 w-full rounded-md bg-white/20 p-4 text-lg text-white outline-none"
 	/>
 	<span class="text-lg text-red-600">{error}</span>
 </fieldset>

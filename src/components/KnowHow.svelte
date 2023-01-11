@@ -194,7 +194,8 @@
 			'Modifications de plâtrerie et préparation des supports',
 			'Revêtements de sols et muraux',
 			'Peinture',
-			"Fournitures et pose de l'ensemble des équipements sanitaires, WC, baignoire, douches, vasques et meubles"
+			"Fournitures et pose de l'ensemble des équipements sanitaires, WC, baignoire, douches, vasques et meubles",
+			'Modifications électriques'
 		]}
 		pictures={[
 			{
@@ -355,7 +356,8 @@
 			'Réparation de bardages et clôtures',
 			'Fourniture et pose de mobilier de bureau',
 			'Remise en état après sinistres',
-			'Fourniture et pose de mobilier urbain'
+			'Fourniture et pose de mobilier urbain',
+			'Modifications de réseaux et tableaux électriques'
 		]}
 		pictures={[
 			{

@@ -14,7 +14,7 @@
 		<Partner name="BIGMAT" />
 		<Partner name="PRESQU'ILE MENUISERIES" />
 		<Partner name="POINT P" />
-		<Partner name="DENIS MATERIAUX - FOUSSIER" />
+		<Partner name="DENIS MATERIAUX" />
 		<Partner name="SONAC / TEREVA" />
 		<Partner name="SONEPAR" />
 		<Partner name="PIERRE ET VACANCES" />

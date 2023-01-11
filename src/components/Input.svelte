@@ -10,7 +10,7 @@
 	<input
 		{id}
 		bind:value
-		class="w-full rounded-md bg-gray-dark p-4 text-lg text-white outline-none"
+		class="w-full rounded-md bg-white/20 p-4 text-lg text-white outline-none"
 	/>
 	{#if error}<span class="text-lg text-red-600">{error}</span>{/if}
 </fieldset>
