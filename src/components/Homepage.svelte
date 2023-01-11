@@ -22,7 +22,7 @@
 	</div>
 	<div class="hidden max-w-3xl flex-1 xl:block">
 		<img
-			src="/savoir-faire/carrelage-faience/9.webp"
+			src="/home/{Math.floor(Math.random() * 3) + 1}.webp"
 			alt="Siège de TVTI"
 			class="w-full rounded-xl"
 		/>
