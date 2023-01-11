@@ -3,7 +3,7 @@
 </script>
 
 <main
-	class="mx-auto flex max-w-screen-3xl items-center justify-between gap-16 px-6 pt-32 md:px-20 md:pt-40"
+	class="mx-auto flex max-w-screen-3xl items-center justify-between gap-16 px-6 pt-32 md:px-20 md:pt-48"
 >
 	<div class="flex max-w-2xl flex-col items-start gap-8">
 		<img src="/logo.webp" alt="Logo de TVTI" class="w-60" />
@@ -18,7 +18,7 @@
 			Véritables généralistes du bâtiment, nos travaux sont destinés aussi bien aux professionnels qu'aux
 			particuliers.
 		</p>
-		<Button href="#realisations">Voir nos savoir-faire</Button>
+		<Button href="#savoir-faire">Voir nos savoir-faire</Button>
 	</div>
 	<div class="hidden max-w-3xl flex-1 xl:block">
 		<img
